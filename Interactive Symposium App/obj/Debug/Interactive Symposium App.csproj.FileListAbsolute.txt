@@ -1,0 +1,17 @@
+C:\Users\hanna\source\repos\Interactive Symposium App\bin\Debug\Interactive Symposium App.exe.config
+C:\Users\hanna\source\repos\Interactive Symposium App\bin\Debug\Interactive Symposium App.exe
+C:\Users\hanna\source\repos\Interactive Symposium App\bin\Debug\Interactive Symposium App.pdb
+C:\Users\hanna\source\repos\Interactive Symposium App\obj\Debug\Interactive Symposium App.csproj.AssemblyReference.cache
+C:\Users\hanna\source\repos\Interactive Symposium App\obj\Debug\Interactive_Symposium_App.MainMenuForm.resources
+C:\Users\hanna\source\repos\Interactive Symposium App\obj\Debug\Interactive_Symposium_App.Properties.Resources.resources
+C:\Users\hanna\source\repos\Interactive Symposium App\obj\Debug\Interactive Symposium App.csproj.GenerateResource.cache
+C:\Users\hanna\source\repos\Interactive Symposium App\obj\Debug\Interactive Symposium App.csproj.CoreCompileInputs.cache
+C:\Users\hanna\source\repos\Interactive Symposium App\obj\Debug\Interactive Symposium App.exe
+C:\Users\hanna\source\repos\Interactive Symposium App\obj\Debug\Interactive Symposium App.pdb
+C:\Users\hanna\source\repos\Interactive Symposium App\obj\Debug\Interactive_Symposium_App.IntroductionForm.resources
+C:\Users\hanna\source\repos\Interactive Symposium App\obj\Debug\Interactive_Symposium_App.ResearchQuestionForm.resources
+C:\Users\hanna\source\repos\Interactive Symposium App\obj\Debug\Interactive_Symposium_App.ObjectiveForm.resources
+C:\Users\hanna\source\repos\Interactive Symposium App\obj\Debug\Interactive_Symposium_App.EvidenceForm.resources
+C:\Users\hanna\source\repos\Interactive Symposium App\obj\Debug\Interactive_Symposium_App.SolutionForm.resources
+C:\Users\hanna\source\repos\Interactive Symposium App\obj\Debug\Interactive_Symposium_App.ConclusionForm.resources
+C:\Users\hanna\source\repos\Interactive Symposium App\obj\Debug\Interactive_Symposium_App.ReferencesForm.resources

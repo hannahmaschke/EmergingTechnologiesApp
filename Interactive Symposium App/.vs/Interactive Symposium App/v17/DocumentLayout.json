@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hanna\\source\\repos\\Interactive Symposium App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2230B57-930B-4A98-A6EE-1478C063FFEF}|Interactive Symposium App.csproj|c:\\users\\hanna\\source\\repos\\interactive symposium app\\referencesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E2230B57-930B-4A98-A6EE-1478C063FFEF}|Interactive Symposium App.csproj|solutionrelative:referencesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2230B57-930B-4A98-A6EE-1478C063FFEF}|Interactive Symposium App.csproj|c:\\users\\hanna\\source\\repos\\interactive symposium app\\solutionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E2230B57-930B-4A98-A6EE-1478C063FFEF}|Interactive Symposium App.csproj|solutionrelative:solutionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2230B57-930B-4A98-A6EE-1478C063FFEF}|Interactive Symposium App.csproj|c:\\users\\hanna\\source\\repos\\interactive symposium app\\researchquestionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E2230B57-930B-4A98-A6EE-1478C063FFEF}|Interactive Symposium App.csproj|solutionrelative:researchquestionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2230B57-930B-4A98-A6EE-1478C063FFEF}|Interactive Symposium App.csproj|c:\\users\\hanna\\source\\repos\\interactive symposium app\\objectiveform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E2230B57-930B-4A98-A6EE-1478C063FFEF}|Interactive Symposium App.csproj|solutionrelative:objectiveform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2230B57-930B-4A98-A6EE-1478C063FFEF}|Interactive Symposium App.csproj|c:\\users\\hanna\\source\\repos\\interactive symposium app\\evidenceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E2230B57-930B-4A98-A6EE-1478C063FFEF}|Interactive Symposium App.csproj|solutionrelative:evidenceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2230B57-930B-4A98-A6EE-1478C063FFEF}|Interactive Symposium App.csproj|c:\\users\\hanna\\source\\repos\\interactive symposium app\\evidenceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2230B57-930B-4A98-A6EE-1478C063FFEF}|Interactive Symposium App.csproj|solutionrelative:evidenceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2230B57-930B-4A98-A6EE-1478C063FFEF}|Interactive Symposium App.csproj|c:\\users\\hanna\\source\\repos\\interactive symposium app\\referencesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2230B57-930B-4A98-A6EE-1478C063FFEF}|Interactive Symposium App.csproj|solutionrelative:referencesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ObjectiveForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hanna\\source\\repos\\Interactive Symposium App\\ObjectiveForm.cs",
+              "RelativeDocumentMoniker": "ObjectiveForm.cs",
+              "ToolTip": "C:\\Users\\hanna\\source\\repos\\Interactive Symposium App\\ObjectiveForm.cs [Design]",
+              "RelativeToolTip": "ObjectiveForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:33:14.311Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReferencesForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hanna\\source\\repos\\Interactive Symposium App\\ReferencesForm.cs",
+              "RelativeDocumentMoniker": "ReferencesForm.cs",
+              "ToolTip": "C:\\Users\\hanna\\source\\repos\\Interactive Symposium App\\ReferencesForm.cs [Design]",
+              "RelativeToolTip": "ReferencesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:50:57.441Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResearchQuestionForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hanna\\source\\repos\\Interactive Symposium App\\ResearchQuestionForm.cs",
+              "RelativeDocumentMoniker": "ResearchQuestionForm.cs",
+              "ToolTip": "C:\\Users\\hanna\\source\\repos\\Interactive Symposium App\\ResearchQuestionForm.cs [Design]",
+              "RelativeToolTip": "ResearchQuestionForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:30:56.69Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SolutionForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hanna\\source\\repos\\Interactive Symposium App\\SolutionForm.cs",
+              "RelativeDocumentMoniker": "SolutionForm.cs",
+              "ToolTip": "C:\\Users\\hanna\\source\\repos\\Interactive Symposium App\\SolutionForm.cs [Design]",
+              "RelativeToolTip": "SolutionForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:31:45.586Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EvidenceForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hanna\\source\\repos\\Interactive Symposium App\\EvidenceForm.cs",
+              "RelativeDocumentMoniker": "EvidenceForm.cs",
+              "ToolTip": "C:\\Users\\hanna\\source\\repos\\Interactive Symposium App\\EvidenceForm.cs [Design]",
+              "RelativeToolTip": "EvidenceForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:32:52.486Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EvidenceForm.cs",
+              "DocumentMoniker": "C:\\Users\\hanna\\source\\repos\\Interactive Symposium App\\EvidenceForm.cs",
+              "RelativeDocumentMoniker": "EvidenceForm.cs",
+              "ToolTip": "C:\\Users\\hanna\\source\\repos\\Interactive Symposium App\\EvidenceForm.cs",
+              "RelativeToolTip": "EvidenceForm.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:02:37.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReferencesForm.cs",
+              "DocumentMoniker": "C:\\Users\\hanna\\source\\repos\\Interactive Symposium App\\ReferencesForm.cs",
+              "RelativeDocumentMoniker": "ReferencesForm.cs",
+              "ToolTip": "C:\\Users\\hanna\\source\\repos\\Interactive Symposium App\\ReferencesForm.cs",
+              "RelativeToolTip": "ReferencesForm.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwCkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:59:48.887Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
